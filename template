@@ -1,0 +1,2 @@
+Hello {{ username }}!
+This is simple template renderer 
